@@ -1,21 +1,14 @@
-<!-- TOP BANNER / DIAGRAM -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="assets/banner.png" alt="AI ML Portfolio Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=250&section=header&text=Pratham%20X7&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Pratham</h1>
-<h3 align="center">3rd Year AI/ML Student • DSA Practitioner • Applied Machine Learning</h3>
+<h2 align="center">3rd Year AI/ML Student • DSA Practitioner • Applied Machine Learning</h2>
 
 <p align="center">
-  <a href="https://github.com/prathamx7">
-    <img src="https://komarev.com/ghpvc/?username=prathamx7&style=flat-square&color=blue" />
-  </a>
-  <a href="https://github.com/prathamx7?tab=followers">
-    <img src="https://img.shields.io/github/followers/prathamx7?style=flat-square" />
-  </a>
-  <a href="https://github.com/prathamx7">
-    <img src="https://img.shields.io/github/stars/prathamx7?style=flat-square" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=prathamx7&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/followers/prathamx7?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/prathamx7?style=flat-square" />
 </p>
 
 ---
@@ -26,46 +19,46 @@
 
 - 🎓 3rd Year Undergraduate in **Artificial Intelligence & Machine Learning**
 - 🧩 Strong command over **Data Structures & Algorithms**
-- 🤖 Interested in **Machine Learning, Deep Learning & Computer Vision**
-- 🛠️ Experience building **complete ML pipelines**
-- 🚀 Focused on **practical, scalable engineering solutions**
-- 🤝 Open to **internships, research, and technical collaborations**
+- 🤖 Focused on **Machine Learning, Deep Learning & Computer Vision**
+- 🛠️ Experience building **end-to-end ML pipelines**
+- 🚀 Interested in **real-world, scalable AI systems**
+- 🤝 Open to **internships, research & collaborations**
 
 ---
 
-## 🧩 Domains of Interest
+## 🧩 Domains
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### 🤖 AI / ML
-- Python  
-- TensorFlow / Keras  
-- PyTorch (Basics)  
-- OpenCV  
-- Scikit-learn  
+Python  
+TensorFlow / Keras  
+PyTorch (Basics)  
+OpenCV  
+Scikit-learn  
 
 </td>
 <td width="33%" align="center">
 
 ### 🧠 DSA
-- Arrays & Strings  
-- Linked Lists  
-- Stacks & Queues  
-- Trees & Graphs  
-- Dynamic Programming  
-- Greedy Algorithms  
+Arrays & Strings  
+Linked Lists  
+Stacks & Queues  
+Trees & Graphs  
+Dynamic Programming  
+Greedy  
 
 </td>
 <td width="33%" align="center">
 
 ### ⚙️ Tools
-- Git & GitHub  
-- Linux  
-- Google Colab  
-- Jupyter Notebook  
-- VS Code  
+Git & GitHub  
+Linux  
+Google Colab  
+Jupyter  
+VS Code  
 
 </td>
 </tr>
@@ -81,23 +74,29 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamx7&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
 ## 🚀 What I Work On
 
-### 🔹 Machine Learning Projects
-- Classification & prediction models
-- Image-based learning pipelines
-- Data preprocessing, augmentation & evaluation
-- Hyperparameter tuning & regularization
+### 🔹 Machine Learning
+- Image & data-based ML models
+- Preprocessing, augmentation & evaluation
+- Hyperparameter tuning
 
-### 🔹 Algorithmic Problem Solving
-- Pattern-based DSA practice
+### 🔹 DSA & Problem Solving
+- Pattern-based problem solving
 - Optimized solutions with complexity analysis
-- Interview-focused problem solving
+- Interview preparation
 
-### 🔹 Data Exploration
-- Exploratory Data Analysis (EDA)
+### 🔹 Data Analysis
+- EDA & visualization
 - Feature engineering
-- Visualization-driven insights
 
 ---
 
@@ -113,7 +112,7 @@
 
 ---
 
-## 📈 Contribution Overview
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamx7&theme=tokyonight" />
@@ -139,10 +138,6 @@
 
 ## ⚡ Philosophy
 
-> **“Master fundamentals. Build deliberately. Scale responsibly.”**
-
-I believe strong fundamentals and disciplined execution lead to impactful engineering.
-
----
+> **“Strong fundamentals first. Systems later.”**
 
 ⭐ If you find my work useful, consider starring the repositories.

@@ -1,17 +1,20 @@
-## Hi there 👋
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Pratham 👋</h1>
-<h3 align="center">3rd Year AI/ML Student • DSA Practitioner • Applied Machine Learning Enthusiast</h3>
+<!-- TOP BANNER / DIAGRAM -->
+<p align="center">
+  <img src="assets/banner.png" alt="AI ML Portfolio Banner" width="100%" />
+</p>
+
+<h1 align="center">Pratham</h1>
+<h3 align="center">3rd Year AI/ML Student • DSA Practitioner • Applied Machine Learning</h3>
 
 <p align="center">
   <a href="https://github.com/prathamx7">
     <img src="https://komarev.com/ghpvc/?username=prathamx7&style=flat-square&color=blue" />
   </a>
   <a href="https://github.com/prathamx7?tab=followers">
-    <img src="https://img.shields.io/github/followers/prathamx7?label=Followers&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/prathamx7?style=flat-square" />
   </a>
   <a href="https://github.com/prathamx7">
-    <img src="https://img.shields.io/github/stars/prathamx7?label=Stars&style=flat-square" />
+    <img src="https://img.shields.io/github/stars/prathamx7?style=flat-square" />
   </a>
 </p>
 
@@ -19,18 +22,18 @@
 
 ## 🧠 About Me
 
-> *Fueled by curiosity, driven by engineering.*
+> *Fueled by curiosity. Built on fundamentals.*
 
-- 🎓 **3rd Year Undergraduate – Artificial Intelligence & Machine Learning**
-- 🧩 Strong foundation in **Data Structures & Algorithms**
-- 🤖 Focused on **Machine Learning, Deep Learning & Computer Vision**
-- 🛠️ Experienced in building **end-to-end ML pipelines**
-- 🚀 Interested in **scalable, real-world AI systems**
-- 🤝 Open to **internships, research & technical collaborations**
+- 🎓 3rd Year Undergraduate in **Artificial Intelligence & Machine Learning**
+- 🧩 Strong command over **Data Structures & Algorithms**
+- 🤖 Interested in **Machine Learning, Deep Learning & Computer Vision**
+- 🛠️ Experience building **complete ML pipelines**
+- 🚀 Focused on **practical, scalable engineering solutions**
+- 🤝 Open to **internships, research, and technical collaborations**
 
 ---
 
-## 🧩 Core Domains
+## 🧩 Domains of Interest
 
 <table>
 <tr>
@@ -57,7 +60,7 @@
 </td>
 <td width="33%" align="center">
 
-### ⚙️ Engineering
+### ⚙️ Tools
 - Git & GitHub  
 - Linux  
 - Google Colab  
@@ -78,21 +81,23 @@
 
 ---
 
-## 🚀 Featured Work
+## 🚀 What I Work On
 
-### 🛰️ Machine Learning Projects
-- Built **classification and prediction models** using structured & image data
-- Implemented **data preprocessing, augmentation, and evaluation pipelines**
-- Applied **regularization and tuning** to improve generalization
+### 🔹 Machine Learning Projects
+- Classification & prediction models
+- Image-based learning pipelines
+- Data preprocessing, augmentation & evaluation
+- Hyperparameter tuning & regularization
 
-### 🧠 Algorithmic Problem Solving
-- Regular practice of **DSA problems** across major patterns
-- Focus on **optimal time–space complexity**
-- Preparing for **technical interviews & competitive programming**
+### 🔹 Algorithmic Problem Solving
+- Pattern-based DSA practice
+- Optimized solutions with complexity analysis
+- Interview-focused problem solving
 
-### 📊 Exploratory Data Analysis
-- Data cleaning, visualization, and insight extraction
-- Feature engineering for ML model improvement
+### 🔹 Data Exploration
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Visualization-driven insights
 
 ---
 
@@ -116,7 +121,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
   <a href="https://github.com/prathamx7">
@@ -134,10 +139,10 @@
 
 ## ⚡ Philosophy
 
-> **“Build strong fundamentals first, then scale to complex systems.”**
+> **“Master fundamentals. Build deliberately. Scale responsibly.”**
 
-I focus on **clarity, correctness, and continuous learning** while solving real engineering problems.
+I believe strong fundamentals and disciplined execution lead to impactful engineering.
 
 ---
 
-⭐ *If you find my repositories useful, consider starring them.*
+⭐ If you find my work useful, consider starring the repositories.

@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=250&section=header&text=Pratham%20X7&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">3rd Year AI/ML Student • DSA Practitioner • Applied Machine Learning</h2>
+<h2 align="center">4th Year AI/ML Student • DSA Practitioner • Data Analyst</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prathamx7&style=flat-square&color=blue" />
